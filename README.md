@@ -81,6 +81,3 @@ Excel modeling
 - The company maintains stable liquidity but shows decreasing profitability.
 - Cash flow analysis indicates strong operational performance.
 - Debt ratio suggests moderate financial risk.
-Data Analysis
-
-Feel free to connect with me on LinkedIn.
